@@ -94,11 +94,11 @@ I created this project to strengthen my SQL skills and gain practical experience
 
 This project demonstrates my ability to:
 
-✔ Clean and prepare data for analysis
-✔ Write efficient SQL queries
-✔ Use SQL for business problem-solving
-✔ Generate insights from transactional data
-✔ Work with aggregate and window functions
+-> Clean and prepare data for analysis
+-> Write efficient SQL queries
+-> Use SQL for business problem-solving
+-> Generate insights from transactional data
+-> Work with aggregate and window functions
 
 ---
 
